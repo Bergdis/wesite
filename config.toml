@@ -1,0 +1,4 @@
+baseURL = "https://bergdis.github.io/wesite/"
+languageCode = "en-us"
+title = "Social Data Final Assignment"
+theme = "ananke"
